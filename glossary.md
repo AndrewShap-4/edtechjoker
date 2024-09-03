@@ -36,7 +36,9 @@ https://www.markdownguide.org/getting-started/
 
 
 ## Drupal CMS
+Drupal is a content management software (CMS) written in PHP. It is open-sourced with reliable performance and excellent security. the main use of Drupal is to create websites and applications. The platform is used by citizens from the U.S., France, and England. 
 
+https://www.uwindsor.ca/drupal/328/what-drupal-what-cms#:~:text=Drupal%20is%20content%20management%20software,reliable%20performance%2C%20and%20excellent%20security. 
 
 ## WordPress CMS
 
